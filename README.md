@@ -45,7 +45,7 @@ Coc as intellisense, in neovim execute **:CocInstall** to install language serve
 ![Neovim screenshot](https://github.com/Ivansegufer/configs-wsl/blob/master/.screenshots/neovim.png?raw=true)
 
 ## Ranger configuration
-Ranger is a command line file manager, beautiful and fast. \
+Ranger is a command line file manager, beautiful and fast.
 - Execute **install-plugs.sh** to install the plugins for ranger.
 ```bash
 # In ranger directory you can find out the script
