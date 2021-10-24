@@ -42,7 +42,7 @@ sudo npm install -g neovim
 Into neovim execute **:PlugInstall** to install all the plugins.\
 Coc as intellisense, in neovim execute **:CocInstall** to install language servers, more information visit [Coc-vim](https://github.com/neoclide/coc.nvim).
 
-![Neovim screenshot](https://github.com/ivansegufer/dotfiles/blob/master/.screenshot/neovim.png?raw=true)
+![Neovim screenshot](https://github.com/Ivansegufer/configs-wsl/blob/master/.screenshots/neovim.png?raw=true)
 
 ## Ranger configuration
 Ranger is a command line file manager, beautiful and fast. \
@@ -51,7 +51,7 @@ Ranger is a command line file manager, beautiful and fast. \
 # In ranger directory you can find out the script
 ./install-plugs.sh
 ```
-![Ranger](https://github.com/ivansegufer/dotfiles/blob/master/.screenshot/ranger.png?raw=true)
+![Ranger](https://github.com/Ivansegufer/configs-wsl/blob/master/.screenshots/ranger.png?raw=true)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
