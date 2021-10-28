@@ -18,6 +18,5 @@ source $HOME/.config/nvim/plug-config/signify.vim
 source $HOME/.config/nvim/plug-config/coc.vim
 
 " Themes
-source $HOME/.config/nvim/general/colors.vim
 source $HOME/.config/nvim/themes/airline.vim
-source $HOME/.config/nvim/themes/material.vim
+source $HOME/.config/nvim/themes/dracula.vim
