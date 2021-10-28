@@ -1,6 +1,5 @@
 let g:mapleader = "\<Space>"
 
-autocmd vimenter * hi Normal guibg=NONE ctermbg=NONE
 set number relativenumber
 set numberwidth=1
 set laststatus=0
@@ -21,6 +20,7 @@ set mouse=a
 set splitbelow
 set splitright
 set clipboard=unnamedplus
+set background=dark
 set autochdir
 set showcmd
 set showmatch
